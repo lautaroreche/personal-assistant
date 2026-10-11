@@ -1,0 +1,3 @@
+# Unencrypted source, base data and build output stay on this computer: only index.html is published
+_source/
+.DS_Store
